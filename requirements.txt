@@ -1,0 +1,12 @@
+torch
+transformers
+accelerate
+pandas
+numpy
+openpyxl
+matplotlib
+scipy
+statsmodels
+tqdm
+jupyter
+sentencepiece
